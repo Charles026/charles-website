@@ -1,4 +1,3 @@
-# TailwinCSS Starter V1.0.1
+# Charles portfolio website
 
-this starter template is base on Tailwind Toolbox - Starter Template
 
